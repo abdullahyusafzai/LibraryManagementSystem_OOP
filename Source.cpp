@@ -12,7 +12,7 @@ int main()
 	Main_Menu m_menu;
 	cout << "********************LMS********************" << endl;
 	cout << "           Library Management System         " << endl;
-	cout << "        Made By: Abdullah BSCS  (2636) " << endl << endl;
+	cout << "        Made By: Abdullah " << endl << endl;
 	string userName;
 	string userPassword;
 	int loginAttempt = 0;
